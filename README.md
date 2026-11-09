@@ -10,8 +10,7 @@ Each script loads the data, explores it, cleans it and engineers features, train
 
 ```
 titanic-disaster/
-├── .github/
-│   └── CODEOWNERS               # repo ownership / required reviewer
+├── CODEOWNERS                   # repo ownership / required reviewer
 ├── .gitignore
 ├── README.md
 └── src/
